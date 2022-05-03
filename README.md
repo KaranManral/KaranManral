@@ -19,7 +19,7 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=KaranManral&style=flat-square&color=blue" alt=""/>
   <h2>
-    Hey There
+    Hello Fellas!!!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h2>
 </div>
@@ -45,6 +45,7 @@ I am a Full Stack Web/Android Developer <img src="https://media.giphy.com/media/
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -76,5 +77,7 @@ I am a Full Stack Web/Android Developer <img src="https://media.giphy.com/media/
 ---
 
 ### :fire: My Stats :
+[![trophy](https://github-profile-trophy.vercel.app/?username=KaranManral)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KaranManral&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaranManral&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranManral&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
