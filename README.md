@@ -1,4 +1,9 @@
 <div id="header" align="center">
+  
+  <h2>
+    Hello Fellas! I am Karan
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h2>
 
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" />
   
@@ -18,10 +23,6 @@
   </div>
   <br>
   <img src="https://komarev.com/ghpvc/?username=KaranManral&style=flat-square&color=blue" alt=""/>
-  <h2>
-    Hello Fellas!!!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h2>
 </div>
 
 <div align="center">
